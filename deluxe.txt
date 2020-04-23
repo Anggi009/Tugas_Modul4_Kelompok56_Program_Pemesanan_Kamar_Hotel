@@ -1,0 +1,12 @@
+package alberto;
+
+/**
+ *
+ * 
+ */
+public class Deluxe extends Hotel {
+    public Deluxe() {
+        super(5,2,1,1250000);
+    }
+   
+}

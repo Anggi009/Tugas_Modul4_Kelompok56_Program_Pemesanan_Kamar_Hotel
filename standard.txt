@@ -1,0 +1,12 @@
+package alberto;
+
+/**
+ *
+ * 
+ */
+public class Standard extends Hotel {
+    public Standard() {
+        super(4,1,0,850000);
+    }
+    
+}

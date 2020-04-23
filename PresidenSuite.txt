@@ -1,0 +1,12 @@
+    package alberto;
+
+    /**
+    *
+    * 
+    */
+    public class PresidenSuite extends Hotel {
+        public PresidenSuite() {
+            super(7,3,2,2500000);
+        }
+        
+    }
