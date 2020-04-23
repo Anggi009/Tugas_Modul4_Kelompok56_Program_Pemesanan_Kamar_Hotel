@@ -1,4 +1,4 @@
-package alberto;
+package kelompok56_modul4_pemesanan.kamar.hotel;
 
 import java.util.Scanner;
 
@@ -81,3 +81,4 @@ public class Hotel {
         }
     }
 }
+
